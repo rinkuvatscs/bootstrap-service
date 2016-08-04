@@ -5,11 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
-  <a href="container.html">container example</a><br>
-  
-  <a href="container.html">container-fluid example</a><br>
-  <a href="grid.html">bootsrap grid example</a><br>
-  
+  <ul>
+ <li> <a href="./container.jsp"> container example</a><br>
+</li>  
+<li>  <a href="./container.jsp"> container-fluid example</a><br></li>
+<li>  <a href="./grid.jsp"> grid example</a><br></li>
+<li>  <a href="./typography.jsp"> typography example</a><br></li>
+  </ul>
   
   </body>
 </html>
